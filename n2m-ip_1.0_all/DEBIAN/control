@@ -1,0 +1,8 @@
+Package: n2m-ip
+Version: 1.0
+Architecture: all
+Essential: no
+Priority: optional
+Depends: curl, hostname
+Maintainer: Mohamed Nasraoui
+Description: A simple linux shell program. It displays the public and the local ip adress of the GNU/linux client or server.
